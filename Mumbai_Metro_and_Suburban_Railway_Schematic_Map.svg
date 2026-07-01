@@ -29,9 +29,9 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="4.762334"
-   inkscape:cx="88.717003"
-   inkscape:cy="414.18767"
+   inkscape:zoom="6.8675419"
+   inkscape:cx="224.31607"
+   inkscape:cy="474.76958"
    inkscape:window-width="1920"
    inkscape:window-height="1080"
    inkscape:window-x="0"
@@ -543,9 +543,12 @@
    d="M65.5,377.3v-14.2c0,0,0-2.8,2.8-5.7c2.8-2.8,2.8-5.7,2.8-5.7v-20V224.2c0-14.2,14.2-14.2,14.2-14.2h28.3"
    id="path41" />
 	<path
-   class="st16"
-   d="M269.6,468l-5.7,5.7L240.6,497c-2.8,2.8-7.9,2.6-7.9,2.6h-46.1c0,0-3.1,0.5-5-1.5c0,0-18.2-18.2-19.9-19.9   s-4.7-1.8-4.7-1.8H82.5c0,0-5.7,0-5.7-5.7v-51c0,0,0-2.8-2.8-5.7l-5.7-5.7c0,0-2.8-2.8-2.8-5.7v-25.5"
-   id="path42" />
+   d="M 241.76888,495.89946 240.67173,497 c -2.79568,2.80431 -7.97173,2.6 -7.97173,2.6 h -46.1 c 0,0 -3.1,0.5 -5,-1.5 L 161.7,478.2 C 160,476.5 157,476.4 157,476.4 H 82.5 c 0,0 -5.7,0 -5.7,-5.7 v -51 c 0,0 0,-2.8 -2.8,-5.7 l -5.7,-5.7 c 0,0 -2.8,-2.8 -2.8,-5.7 v -25.5"
+   id="path61"
+   style="fill:none;stroke:#ffc700;stroke-opacity:1;stroke-dasharray:1.00000048, 1.00000048;stroke-dashoffset:0;stroke-width:1.5" /><path
+   d="m 269.6,468 -5.7,5.7 -22.13112,22.19946"
+   id="path42"
+   style="fill:none;stroke:#ffc700;stroke-opacity:1;stroke-width:1.5;stroke-dasharray:none" />
 	<path
    class="st17"
    d="M100.1,122.1c0,1.9,0,2,1.5,4.2c0.7,1.2,0.7,1.2,0.7,4.3"
@@ -28026,7 +28029,7 @@
 <text
    xml:space="preserve"
    id="text5796"
-   style="fill:#000000;text-orientation:auto;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-size:7.55905512px;stroke-miterlimit:2.61313;letter-spacing:1px;line-height:2;stroke-width:0.79370079;font-stretch:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5796);font-weight:normal;font-style:normal;font-variant:normal" /></g>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.55906px;line-height:2;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:1px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5796);display:inline;fill:#000000;stroke-width:0.793701;stroke-miterlimit:2.61313" /></g>
 <text
    class="st60 st61"
    id="text5757"
