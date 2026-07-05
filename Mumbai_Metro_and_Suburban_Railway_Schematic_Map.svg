@@ -480,15 +480,15 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="8.1575977"
-   inkscape:cx="64.234597"
-   inkscape:cy="360.95185"
+   inkscape:zoom="4.7220868"
+   inkscape:cx="109.37961"
+   inkscape:cy="323.05632"
    inkscape:window-width="2536"
    inkscape:window-height="1394"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1"
+   inkscape:current-layer="Stations"
    showguides="true"><sodipodi:guide
      position="226.59243,682.65311"
      orientation="1,0"
@@ -1630,7 +1630,14 @@
    class="st35"
    width="29.2"
    height="9.2"
-   id="rect130" />
+   id="rect130" /><rect
+   x="83.385246"
+   y="366.95538"
+   class="st35"
+   width="22.825575"
+   height="3.8062551"
+   id="rect130-6"
+   style="opacity:0.85;fill:#f2e9d4;stroke-width:0.568689;enable-background:new" />
 	<rect
    x="107.9"
    y="366.5"
@@ -1846,11 +1853,11 @@
    height="4"
    id="rect160" />
 	<rect
-   x="65.875313"
-   y="346.68518"
+   x="65.384972"
+   y="350.60791"
    class="st35"
-   width="10.4"
-   height="9.1000004"
+   width="8.0708857"
+   height="5.0547204"
    id="rect161" />
 	<rect
    x="151.5"
@@ -2622,12 +2629,10 @@
    class="st42"
    d="M382.5,509.5c0.8,0,1.4,0.6,1.4,1.4s-0.6,1.4-1.4,1.4s-1.4-0.6-1.4-1.4S381.8,509.5,382.5,509.5z"
    id="path262" />
-	<circle
+	<path
+   id="circle263"
    class="st42"
-   cx="65.5"
-   cy="367.5"
-   r="1.4"
-   id="circle263" />
+   d="M 71.779297 356 C 70.979297 356 70.378906 356.60039 70.378906 357.40039 C 70.378906 357.43233 70.378972 357.46286 70.380859 357.49414 L 67.207031 359.13281 A 1.4 1.4 0 0 0 66.359375 358.84766 A 1.4 1.4 0 0 0 64.958984 360.24609 A 1.4 1.4 0 0 0 66.359375 361.64648 A 1.4 1.4 0 0 0 67.759766 360.24609 A 1.4 1.4 0 0 0 67.759766 360.24219 L 70.992188 358.57227 L 70.994141 358.57227 C 71.215042 358.71612 71.483479 358.80078 71.779297 358.80078 C 72.579297 358.80078 73.179688 358.20039 73.179688 357.40039 C 73.179688 356.60039 72.579297 356 71.779297 356 z " />
 	<circle
    class="st42"
    cx="70.8"
@@ -2764,8 +2769,8 @@
    id="path286" />
 	<circle
    class="st42"
-   cx="71.1"
-   cy="233.9"
+   cx="71.099998"
+   cy="233.43442"
    r="1.4"
    id="circle287" />
 	<path
@@ -2778,8 +2783,8 @@
    id="path288" />
 	<circle
    class="st42"
-   cx="71.1"
-   cy="244.8"
+   cx="71.099998"
+   cy="243.76883"
    r="1.4"
    id="circle288" />
 	<circle
@@ -2790,12 +2795,12 @@
    id="circle289" />
 	<path
    class="st42"
-   d="M72.5,255.6c0,0.8-0.6,1.4-1.4,1.4c-0.8,0-1.4-0.6-1.4-1.4c0-0.8,0.6-1.4,1.4-1.4   C71.9,254.2,72.5,254.8,72.5,255.6z"
+   d="m 72.5,254.10324 c 0,0.8 -0.6,1.4 -1.4,1.4 -0.8,0 -1.4,-0.6 -1.4,-1.4 0,-0.8 0.6,-1.4 1.4,-1.4 0.8,0 1.4,0.6 1.4,1.4 z"
    id="path289" />
 	<circle
    class="st42"
-   cx="71.1"
-   cy="266.5"
+   cx="71.099998"
+   cy="264.43765"
    r="1.4"
    id="circle290" />
 	<circle
@@ -2810,14 +2815,14 @@
    id="path291" />
 	<circle
    class="st42"
-   cx="71.1"
-   cy="277.3"
+   cx="71.099998"
+   cy="274.77206"
    r="1.4"
    id="circle292" />
 	<circle
    class="st42"
-   cx="71.1"
-   cy="288.2"
+   cx="71.099998"
+   cy="285.10648"
    r="1.4"
    id="circle293" />
 	<path
@@ -2830,12 +2835,12 @@
    id="path294" />
 	<path
    class="st42"
-   d="M72.5,299c0,0.8-0.6,1.4-1.4,1.4c-0.8,0-1.4-0.6-1.4-1.4c0-0.8,0.6-1.4,1.4-1.4   C71.9,297.6,72.5,298.3,72.5,299z"
+   d="m 72.5,295.44088 c 0,0.8 -0.6,1.4 -1.4,1.4 -0.8,0 -1.4,-0.6 -1.4,-1.4 0,-0.8 0.6,-1.4 1.4,-1.4 0.8,0 1.4,0.7 1.4,1.4 z"
    id="path295" />
 	<circle
    class="st42"
-   cx="71.1"
-   cy="309.9"
+   cx="71.099998"
+   cy="305.7753"
    r="1.4"
    id="circle295" />
 	<circle
@@ -2846,13 +2851,13 @@
    id="circle296" />
 	<circle
    class="st42"
-   cx="71.1"
-   cy="320.8"
+   cx="71.099998"
+   cy="316.10971"
    r="1.4"
    id="circle297" />
 	<path
    class="st42"
-   d="M72.5,331.6c0,0.8-0.6,1.4-1.4,1.4c-0.8,0-1.4-0.6-1.4-1.4c0-0.8,0.6-1.4,1.4-1.4   C71.9,330.2,72.5,330.8,72.5,331.6z"
+   d="m 72.5,326.44412 c 0,0.8 -0.6,1.4 -1.4,1.4 -0.8,0 -1.4,-0.6 -1.4,-1.4 0,-0.8 0.6,-1.4 1.4,-1.4 0.8,0 1.4,0.6 1.4,1.4 z"
    id="path297" />
 	<circle
    class="st42"
@@ -2862,8 +2867,8 @@
    id="circle298" />
 	<circle
    class="st42"
-   cx="71.1"
-   cy="342.5"
+   cx="71.099998"
+   cy="336.77853"
    r="1.4"
    id="circle299" />
 	<circle
@@ -3169,10 +3174,7 @@
    class="st42"
    d="M93.8,336.9c-0.8,0-1.4,0.6-1.4,1.4c0,0.8,0.6,1.4,1.4,1.4h2.8c0.8,0,1.4-0.6,1.4-1.4c0-0.8-0.6-1.4-1.4-1.4   H93.8z"
    id="path345" />
-	<path
-   class="st42"
-   d="M69.7,357.4c0,0.8-0.6,1.4-1.4,1.4c-0.8,0-1.4-0.6-1.4-1.4c0-0.8,0.6-1.4,1.4-1.4   C69.1,356,69.7,356.6,69.7,357.4z"
-   id="path346" />
+	
 	<circle
    class="st42"
    cx="113.7"
@@ -3978,7 +3980,13 @@
    id="line448" />
 		</g>
 	</g>
-</g>
+<circle
+   class="st42"
+   cx="71.099998"
+   cy="347.11295"
+   r="1.4"
+   id="circle299-6"
+   style="fill:#ffffff;stroke:#231f20;stroke-width:0.5" /></g>
 <g
    id="Text"
    class="st55">
@@ -16572,7 +16580,8 @@
    d="m 128.5,366.3 v -2.1 h 0.3 v 0.3 c 0.1,-0.1 0.2,-0.2 0.2,-0.3 0,-0.1 0.1,-0.1 0.2,-0.1 0.1,0 0.2,0 0.4,0.1 l -0.1,0.3 c -0.1,-0.1 -0.2,-0.1 -0.3,-0.1 -0.1,0 -0.1,0 -0.2,0.1 -0.1,0.1 -0.1,0.1 -0.1,0.2 0,0.1 -0.1,0.3 -0.1,0.4 v 1.1 z"
    id="path3311" />
 	</g><g
-   id="g3322">
+   id="g3322"
+   transform="translate(0,-5.30588)">
 		<path
    d="m 43.7,332.7 v -2.9 h 1.1 c 0.2,0 0.4,0 0.5,0.1 0.1,0.1 0.2,0.1 0.3,0.3 0.1,0.2 0.1,0.2 0.1,0.4 0,0.1 0,0.2 -0.1,0.3 -0.1,0.1 -0.2,0.2 -0.3,0.3 0.2,0.1 0.3,0.1 0.4,0.3 0.1,0.2 0.1,0.3 0.1,0.4 0,0.1 0,0.3 -0.1,0.4 -0.1,0.1 -0.1,0.2 -0.2,0.3 -0.1,0.1 -0.2,0.1 -0.3,0.1 -0.1,0 -0.3,0 -0.5,0 z m 0.4,-1.7 h 0.6 c 0.2,0 0.3,0 0.4,0 0.1,0 0.2,-0.1 0.2,-0.1 0,0 0.1,-0.1 0.1,-0.2 0,-0.1 0,-0.2 -0.1,-0.3 -0.1,-0.1 -0.1,-0.1 -0.2,-0.1 -0.1,0 -0.2,0 -0.4,0 h -0.6 z m 0,1.4 h 0.7 c 0.1,0 0.2,0 0.3,0 0.1,0 0.2,0 0.2,-0.1 0,-0.1 0.1,-0.1 0.1,-0.2 0,-0.1 0.1,-0.1 0.1,-0.2 0,-0.1 0,-0.2 -0.1,-0.3 -0.1,-0.1 -0.1,-0.1 -0.2,-0.2 -0.1,-0.1 -0.2,0 -0.4,0 h -0.7 z"
    id="path3312" />
@@ -16606,49 +16615,6 @@
 		<path
    d="m 67.2,332.7 v -2.1 h 0.3 v 0.3 c 0.1,-0.1 0.2,-0.2 0.2,-0.3 0,-0.1 0.1,-0.1 0.2,-0.1 0.1,0 0.2,0 0.4,0.1 l -0.1,0.3 c -0.1,-0.1 -0.2,-0.1 -0.3,-0.1 -0.1,0 -0.1,0 -0.2,0.1 -0.1,0.1 -0.1,0.1 -0.1,0.2 0,0.1 -0.1,0.3 -0.1,0.4 v 1.1 z"
    id="path3322" />
-	</g><g
-   id="g3330">
-		<path
-   d="m 53.2,266.8 h 0.4 c 0,0.1 0.1,0.3 0.1,0.4 0,0.1 0.2,0.2 0.3,0.2 0.1,0 0.3,0.1 0.4,0.1 0.1,0 0.3,0 0.4,-0.1 0.1,-0.1 0.2,-0.1 0.2,-0.2 0,-0.1 0.1,-0.2 0.1,-0.2 0,-0.1 0,-0.2 -0.1,-0.2 -0.1,0 -0.1,-0.1 -0.3,-0.2 -0.1,0 -0.2,-0.1 -0.5,-0.1 -0.3,0 -0.4,-0.1 -0.6,-0.2 -0.1,-0.1 -0.2,-0.2 -0.3,-0.3 -0.1,-0.1 -0.1,-0.2 -0.1,-0.4 0,-0.1 0,-0.3 0.1,-0.4 0.1,-0.1 0.2,-0.2 0.4,-0.3 0.2,-0.1 0.3,-0.1 0.5,-0.1 0.2,0 0.4,0 0.6,0.1 0.2,0.1 0.3,0.2 0.4,0.3 0.1,0.1 0.1,0.3 0.1,0.5 h -0.4 c 0,-0.2 -0.1,-0.3 -0.2,-0.4 -0.1,-0.1 -0.3,-0.1 -0.5,-0.1 -0.2,0 -0.4,0 -0.5,0.1 -0.1,0.1 -0.2,0.2 -0.2,0.3 0,0.1 0,0.2 0.1,0.3 0.1,0.1 0.3,0.1 0.6,0.2 0.3,0.1 0.5,0.1 0.6,0.2 0.2,0.1 0.3,0.2 0.4,0.3 0.1,0.1 0.1,0.3 0.1,0.4 0,0.2 0,0.3 -0.1,0.4 -0.1,0.1 -0.2,0.2 -0.4,0.3 -0.2,0.1 -0.3,0.1 -0.6,0.1 -0.3,0 -0.5,0 -0.7,-0.1 -0.2,-0.1 -0.3,-0.2 -0.4,-0.3 -0.1,-0.1 0.1,-0.4 0.1,-0.6 z"
-   id="path3323" />
-		<path
-   d="m 55.9,267.7 v -2.9 h 0.4 v 1 c 0.2,-0.2 0.4,-0.3 0.6,-0.3 0.2,0 0.3,0 0.4,0.1 0.1,0.1 0.2,0.1 0.2,0.3 0,0.2 0.1,0.3 0.1,0.5 v 1.3 h -0.4 v -1.3 c 0,-0.2 0,-0.3 -0.1,-0.4 -0.1,-0.1 -0.2,-0.1 -0.3,-0.1 -0.1,0 -0.2,0 -0.3,0.1 -0.1,0.1 -0.2,0.1 -0.2,0.2 0,0.1 -0.1,0.2 -0.1,0.4 v 1.1 z"
-   id="path3324" />
-		<path
-   d="m 58.2,265.2 v -0.4 h 0.4 v 0.4 z m 0,2.5 v -2.1 h 0.4 v 2.1 z"
-   id="path3325" />
-		<path
-   d="m 59.1,267.7 v -2.1 h 0.3 v 0.3 c 0.1,-0.1 0.2,-0.2 0.3,-0.2 0.1,0 0.2,-0.1 0.4,-0.1 0.2,0 0.3,0 0.4,0.1 0.1,0.1 0.2,0.2 0.2,0.3 0.2,-0.2 0.4,-0.4 0.6,-0.4 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 v 1.4 h -0.3 v -1.3 c 0,-0.1 0,-0.2 0,-0.3 0,-0.1 -0.1,-0.1 -0.1,-0.1 0,0 -0.1,-0.1 -0.2,-0.1 -0.1,0 -0.3,0 -0.4,0.1 -0.1,0.1 -0.1,0.3 -0.1,0.5 v 1.2 h -0.4 v -1.3 c 0,-0.2 0,-0.3 -0.1,-0.4 -0.1,-0.1 -0.2,-0.1 -0.3,-0.1 -0.1,0 -0.2,0 -0.3,0.1 -0.1,0.1 -0.1,0.1 -0.2,0.2 -0.1,0.1 -0.1,0.2 -0.1,0.4 v 1.1 z"
-   id="path3326" />
-		<path
-   d="m 62.4,268.5 v -2.9 h 0.3 v 0.3 c 0.1,-0.1 0.2,-0.2 0.3,-0.2 0.1,0 0.2,-0.1 0.3,-0.1 0.2,0 0.3,0 0.5,0.1 0.2,0.1 0.2,0.2 0.3,0.4 0.1,0.2 0.1,0.3 0.1,0.5 0,0.2 0,0.4 -0.1,0.6 -0.1,0.2 -0.2,0.3 -0.3,0.4 -0.1,0.1 -0.3,0.1 -0.5,0.1 -0.1,0 -0.2,0 -0.3,-0.1 -0.1,-0.1 -0.2,-0.1 -0.2,-0.2 v 1 z m 0.3,-1.8 c 0,0.3 0.1,0.5 0.2,0.6 0.1,0.1 0.2,0.2 0.4,0.2 0.2,0 0.3,-0.1 0.4,-0.2 0.1,-0.1 0.2,-0.3 0.2,-0.6 0,-0.3 -0.1,-0.5 -0.2,-0.6 -0.1,-0.1 -0.2,-0.2 -0.4,-0.2 -0.2,0 -0.3,0.1 -0.4,0.2 -0.1,0.1 -0.2,0.3 -0.2,0.6 z"
-   id="path3327" />
-		<path
-   d="m 64.5,266.7 c 0,-0.4 0.1,-0.7 0.3,-0.9 0.2,-0.2 0.4,-0.2 0.7,-0.2 0.3,0 0.5,0.1 0.7,0.3 0.2,0.2 0.3,0.4 0.3,0.8 0,0.3 0,0.5 -0.1,0.6 -0.1,0.1 -0.2,0.3 -0.3,0.4 -0.1,0.1 -0.3,0.1 -0.5,0.1 -0.3,0 -0.5,-0.1 -0.7,-0.3 -0.2,-0.2 -0.4,-0.5 -0.4,-0.8 z m 0.4,0 c 0,0.3 0.1,0.5 0.2,0.6 0.1,0.1 0.3,0.2 0.4,0.2 0.2,0 0.3,-0.1 0.4,-0.2 0.1,-0.1 0.2,-0.3 0.2,-0.6 0,-0.3 -0.1,-0.5 -0.2,-0.6 -0.1,-0.1 -0.3,-0.2 -0.4,-0.2 -0.2,0 -0.3,0.1 -0.4,0.2 -0.1,0.1 -0.2,0.3 -0.2,0.6 z"
-   id="path3328" />
-		<path
-   d="m 66.8,267.7 v -2.9 h 0.4 v 2.9 z"
-   id="path3329" />
-		<path
-   d="m 67.7,265.2 v -0.4 h 0.4 v 0.4 z m 0,2.5 v -2.1 h 0.4 v 2.1 z"
-   id="path3330" />
-	</g><g
-   id="g3335">
-		<path
-   d="m 58.4,246 v -2.9 h 2.1 v 0.3 h -1.7 v 0.9 h 1.6 v 0.3 h -1.6 v 1 h 1.8 v 0.3 z"
-   id="path3331" />
-		<path
-   d="m 61,246 v -2.9 h 0.4 v 1.6 l 0.8,-0.8 h 0.5 l -0.8,0.8 0.9,1.3 h -0.4 l -0.7,-1.1 -0.2,0.2 v 0.8 H 61 Z"
-   id="path3332" />
-		<path
-   d="m 62.9,245.4 0.3,-0.1 c 0,0.1 0.1,0.2 0.2,0.3 0.1,0.1 0.2,0.1 0.4,0.1 0.2,0 0.3,0 0.4,-0.1 0.1,-0.1 0.1,-0.1 0.1,-0.2 0,-0.1 0,-0.1 -0.1,-0.2 0,0 -0.2,-0.1 -0.4,-0.1 -0.3,-0.1 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.1 -0.2,-0.2 0,-0.1 -0.1,-0.2 -0.1,-0.3 0,-0.1 0,-0.2 0.1,-0.3 0.1,-0.1 0.1,-0.1 0.2,-0.2 0.1,0 0.1,-0.1 0.2,-0.1 0.1,0 0.2,0 0.3,0 0.2,0 0.3,0 0.4,0.1 0.1,0.1 0.2,0.1 0.3,0.2 0.1,0.1 0.1,0.2 0.1,0.3 h -0.3 c 0,-0.1 -0.1,-0.2 -0.1,-0.2 0,0 -0.2,-0.1 -0.3,-0.1 -0.2,0 -0.3,0 -0.3,0.1 0,0.1 -0.1,0.1 -0.1,0.2 0,0 0,0.1 0,0.1 0,0 0.1,0.1 0.1,0.1 0,0 0.1,0 0.3,0.1 0.2,0.1 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.1 0.2,0.2 0,0.1 0.1,0.2 0.1,0.3 0,0.1 0,0.2 -0.1,0.3 -0.1,0.1 -0.2,0.2 -0.3,0.2 -0.1,0 -0.3,0.1 -0.4,0.1 -0.3,0 -0.5,-0.1 -0.6,-0.2 -0.1,-0.1 -0.4,-0.2 -0.4,-0.4 z"
-   id="path3333" />
-		<path
-   d="m 66.4,245.8 c -0.1,0.1 -0.3,0.2 -0.4,0.2 -0.1,0 -0.2,0.1 -0.4,0.1 -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.4 0,-0.1 0,-0.2 0.1,-0.3 0.1,-0.1 0.1,-0.2 0.2,-0.2 0.1,0 0.2,-0.1 0.3,-0.1 0.1,0 0.2,0 0.3,-0.1 0.3,0 0.5,-0.1 0.6,-0.1 0,0 0,-0.1 0,-0.1 0,-0.1 0,-0.2 -0.1,-0.3 -0.1,-0.1 -0.2,-0.1 -0.4,-0.1 -0.2,0 -0.3,0 -0.4,0.1 -0.1,0.1 -0.1,0.2 -0.2,0.3 H 65 c 0,-0.1 0.1,-0.3 0.2,-0.4 0.1,-0.1 0.2,-0.2 0.3,-0.2 0.1,0 0.3,-0.1 0.5,-0.1 0.2,0 0.3,0 0.4,0.1 0.1,0.1 0.2,0.1 0.2,0.2 0,0.1 0.1,0.1 0.1,0.2 0,0.1 0,0.2 0,0.3 v 0.5 c 0,0.3 0,0.5 0,0.6 0,0.1 0,0.2 0.1,0.2 h -0.4 c 0,-0.1 0,-0.1 0,-0.2 z M 66.3,245 c -0.1,0.1 -0.3,0.1 -0.6,0.1 -0.1,0 -0.2,0 -0.3,0.1 -0.1,0.1 -0.1,0.1 -0.1,0.1 0,0 0,0.1 0,0.2 0,0.1 0,0.2 0.1,0.2 0.1,0 0.2,0.1 0.3,0.1 0.1,0 0.3,0 0.4,-0.1 0.1,-0.1 0.2,-0.1 0.2,-0.2 0,-0.1 0.1,-0.2 0.1,-0.4 z"
-   id="path3334" />
-		<path
-   d="m 67.2,246 v -2.1 h 0.3 v 0.3 c 0.1,-0.1 0.2,-0.2 0.2,-0.3 0,-0.1 0.1,-0.1 0.2,-0.1 0.1,0 0.2,0 0.4,0.1 l -0.1,0.3 c -0.1,-0.1 -0.2,-0.1 -0.3,-0.1 -0.1,0 -0.1,0 -0.2,0.1 -0.1,0.1 -0.1,0.1 -0.1,0.2 0,0.1 -0.1,0.3 -0.1,0.4 v 1.1 z"
-   id="path3335" />
 	</g><g
    id="g3336">
 		<text
@@ -20512,7 +20478,8 @@
 			</g>
 		</g>
 	</g><g
-   id="g4328">
+   id="g4328"
+   transform="translate(-22)">
 		<g
    id="g4320">
 			<g
@@ -22438,7 +22405,7 @@
 </tspan></tspan><tspan
      x="252.86914"
      y="-22.821119"
-     id="tspan36"><tspan
+     id="tspan38"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
        id="tspan34">Nerul-Uran</tspan></tspan></text><path
    class="st42"
@@ -26916,67 +26883,73 @@
    id="text5759"
    style="text-align:end;text-anchor:end"
    x="68.498199"
-   y="256.90601">Boriwali (W)</text>
+   y="255.30724">Borivali (W)</text><text
+   class="st60 st61"
+   id="text5759-2"
+   style="font-size:4px;font-family:ArialMT;text-align:end;text-anchor:end"
+   x="68.398201"
+   y="245.26883">Eksar</text>
 <text
    class="st60 st61"
    id="text5760"
    style="text-align:end;text-anchor:end"
    x="68.498199"
-   y="278.573">Kandivali (W)</text>
+   y="275.97607">Kandivali (W)</text>
 <text
    class="st60 st61"
    id="text5761"
    style="text-align:end;text-anchor:end"
    x="68.646194"
-   y="289.40701">Dahanukarwadi</text>
+   y="286.60648">Dahanukarwadi</text>
 <text
    class="st60 st61"
    id="text5762"
    style="text-align:end;text-anchor:end"
    x="68.338203"
-   y="300.46579">Valnai-Meeth Chowky</text>
+   y="296.48087">Valnai-Meeth Chowky</text>
 <text
    class="st60 st61"
    id="text5763"
    style="text-align:end;text-anchor:end"
    x="68.498199"
-   y="311.03101">Malad (W)</text>
+   y="306.97931">Malad (W)</text>
 <text
    class="st60 st61"
    id="text5764"
    style="text-align:end;text-anchor:end"
    x="68.6782"
-   y="321.91199">Lower Malad</text>
+   y="317.60971">Lower Malad</text>
 <text
    class="st60 st61"
    id="text5765"
    style="text-align:end;text-anchor:end"
-   x="25.512001"
-   y="0"
-   transform="translate(42.9862,343.534)">Goregaon (W)</text>
+   x="68.498199"
+   y="337.74652">Goregaon (W)</text>
 <text
    id="text5766"
-   x="50.583298"
-   y="350.02521"><tspan
-     x="50.583298"
-     y="350.02521"
+   x="47.507301"
+   y="354.62112"><tspan
+     x="47.507301"
+     y="354.62112"
      class="st60 st61"
-     id="tspan5765">Oshiwara / </tspan><tspan
-     x="43.883301"
-     y="354.8252"
-     class="st60 st61"
-     id="tspan5766">Adharsh Nagar</tspan></text>
-<text
-   class="st60 st61"
-   id="text5767"
-   style="text-align:end;text-anchor:end"
-   x="29.564003"
-   y="0"
-   transform="translate(33.8294,368.536)">Lower Oshiwara</text>
+     id="tspan5765"> Adharsh Nagar</tspan></text>
+
 <text
    transform="matrix(1 0 0 1 58.9418 375.1818)"
    class="st60 st61"
-   id="text5768">DN Nagar</text>
+   id="text5768">DN Nagar</text><rect
+   x="61.155247"
+   y="362.34961"
+   class="st35"
+   width="12.528427"
+   height="3.68367"
+   id="rect130-9"
+   style="opacity:0.85;fill:#f2e9d4;stroke-width:0.414479;enable-background:new" /><text
+   class="st60 st61"
+   id="text5767"
+   style="text-align:end;text-anchor:end"
+   x="83.245522"
+   y="365.53717">Lower Oshiwara</text>
 <text
    transform="matrix(1 0 0 1 75.0483 382.4213)"
    id="text5769"><tspan
@@ -27158,9 +27131,9 @@
    transform="translate(21.87995,55.302782)"><tspan
      x="203.58008"
      y="-22.242778"
-     id="tspan38"><tspan
+     id="tspan40"><tspan
        style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-       id="tspan37">Mumbai Metropolitan Region Rail Map</tspan></tspan></text><text
+       id="tspan39">Mumbai Metropolitan Region Rail Map</tspan></tspan></text><text
    xml:space="preserve"
    style="font-weight:bold;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#000000"
    x="226.59244"
@@ -27217,63 +27190,63 @@
    transform="translate(77.623274,207.40727)"><tspan
      x="252.86914"
      y="-67.354475"
-     id="tspan40"><tspan
+     id="tspan42"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan39">Line 1</tspan></tspan></text><text
+       id="tspan41">Line 1</tspan></tspan></text><text
    xml:space="preserve"
    id="text9-5"
    style="font-weight:bold;font-size:6.66667px;line-height:1.67;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9-6);display:inline;fill:#000000"
    transform="translate(77.623274,133.2331)"><tspan
      x="252.86914"
      y="-67.354475"
-     id="tspan42"><tspan
+     id="tspan44"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan41">Line 1
+       id="tspan43">Line 1
 </tspan></tspan><tspan
      x="252.86914"
      y="-56.221136"
-     id="tspan44"><tspan
+     id="tspan46"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan43">Line 2
+       id="tspan45">Line 2
 </tspan></tspan><tspan
      x="252.86914"
      y="-45.087797"
-     id="tspan46"><tspan
+     id="tspan48"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan45">Line 3
+       id="tspan47">Line 3
 </tspan></tspan><tspan
      x="252.86914"
      y="-33.954458"
-     id="tspan48"><tspan
+     id="tspan50"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan47">Line 4
+       id="tspan49">Line 4
 </tspan></tspan><tspan
      x="252.86914"
      y="-22.821119"
-     id="tspan50"><tspan
+     id="tspan52"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan49">Line 5</tspan></tspan></text><text
+       id="tspan51">Line 5</tspan></tspan></text><text
    xml:space="preserve"
    id="text9-5-9"
    style="font-weight:bold;font-size:6.66667px;line-height:1.67;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9-6-5);display:inline;fill:#000000"
    transform="translate(118.01657,133.2331)"><tspan
      x="252.86914"
      y="-67.354475"
-     id="tspan52"><tspan
+     id="tspan54"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan51">Line 6
+       id="tspan53">Line 6
 </tspan></tspan><tspan
      x="252.86914"
      y="-56.221136"
-     id="tspan54"><tspan
+     id="tspan56"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan53">Line 7
+       id="tspan55">Line 7
 </tspan></tspan><tspan
      x="252.86914"
      y="-45.087797"
-     id="tspan56"><tspan
+     id="tspan58"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan55">Line 9
+       id="tspan57">Line 9
 </tspan></tspan></text><text
    xml:space="preserve"
    id="text9-7"
@@ -27281,9 +27254,9 @@
    transform="translate(-13.469147,207.40727)"><tspan
      x="252.86914"
      y="-67.354475"
-     id="tspan58"><tspan
+     id="tspan60"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan57">Mumbai Monorail</tspan></tspan></text><text
+       id="tspan59">Mumbai Monorail</tspan></tspan></text><text
    class="st60 st61"
    id="text5759-5"
    style="font-size:4px;font-family:ArialMT;text-align:end;text-anchor:end"
@@ -27348,20 +27321,41 @@
      style="line-height:1"
      id="tspan15">Road</tspan></text><text
    id="text5769-1"
-   x="75.512001"
+   x="78.737816"
    y="354.53998"
    style="font-size:4px"><tspan
-     x="75.512001"
+     x="78.737816"
      y="354.53998"
      class="st60 st61"
      id="tspan5768-1"
      style="font-size:4px">Jogeshwari (W)</tspan></text><text
    id="text5769-1-7"
-   x="70.905884"
-   y="365.94"
+   x="84.905884"
+   y="369.94"
    style="font-size:4px"><tspan
-     x="70.905884"
-     y="365.94"
+     x="84.905884"
+     y="369.94"
      class="st60 st61"
      id="tspan5768-1-7"
-     style="font-size:4px">Jogeshwari</tspan></text></svg>
+     style="font-size:4px">Jogeshwari</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#000000"
+   x="50.9142"
+   y="348.22568"
+   id="text36"><tspan
+     sodipodi:role="line"
+     id="tspan36"
+     x="50.9142"
+     y="348.22568">Oshiwara</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+   x="43.474369"
+   y="244.78125"
+   id="text37"><tspan
+     sodipodi:role="line"
+     id="tspan37"></tspan></text><text
+   class="st60 st61"
+   id="text5759-0"
+   style="font-size:4px;font-family:ArialMT;text-align:end;text-anchor:end"
+   x="68.498199"
+   y="265.47766">Shimpoli</text></svg>
