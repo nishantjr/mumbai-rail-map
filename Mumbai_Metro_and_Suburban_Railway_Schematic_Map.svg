@@ -482,8 +482,8 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="6.2212865"
    inkscape:cx="85.352121"
-   inkscape:cy="303.87605"
-   inkscape:window-width="1566"
+   inkscape:cy="361.90264"
+   inkscape:window-width="2536"
    inkscape:window-height="1394"
    inkscape:window-x="0"
    inkscape:window-y="0"
@@ -16556,42 +16556,6 @@
    d="m 128.5,366.3 v -2.1 h 0.3 v 0.3 c 0.1,-0.1 0.2,-0.2 0.2,-0.3 0,-0.1 0.1,-0.1 0.2,-0.1 0.1,0 0.2,0 0.4,0.1 l -0.1,0.3 c -0.1,-0.1 -0.2,-0.1 -0.3,-0.1 -0.1,0 -0.1,0 -0.2,0.1 -0.1,0.1 -0.1,0.1 -0.1,0.2 0,0.1 -0.1,0.3 -0.1,0.4 v 1.1 z"
    id="path3311" />
 	</g><g
-   id="g3322"
-   transform="translate(0,-5.30588)">
-		<path
-   d="m 43.7,332.7 v -2.9 h 1.1 c 0.2,0 0.4,0 0.5,0.1 0.1,0.1 0.2,0.1 0.3,0.3 0.1,0.2 0.1,0.2 0.1,0.4 0,0.1 0,0.2 -0.1,0.3 -0.1,0.1 -0.2,0.2 -0.3,0.3 0.2,0.1 0.3,0.1 0.4,0.3 0.1,0.2 0.1,0.3 0.1,0.4 0,0.1 0,0.3 -0.1,0.4 -0.1,0.1 -0.1,0.2 -0.2,0.3 -0.1,0.1 -0.2,0.1 -0.3,0.1 -0.1,0 -0.3,0 -0.5,0 z m 0.4,-1.7 h 0.6 c 0.2,0 0.3,0 0.4,0 0.1,0 0.2,-0.1 0.2,-0.1 0,0 0.1,-0.1 0.1,-0.2 0,-0.1 0,-0.2 -0.1,-0.3 -0.1,-0.1 -0.1,-0.1 -0.2,-0.1 -0.1,0 -0.2,0 -0.4,0 h -0.6 z m 0,1.4 h 0.7 c 0.1,0 0.2,0 0.3,0 0.1,0 0.2,0 0.2,-0.1 0,-0.1 0.1,-0.1 0.1,-0.2 0,-0.1 0.1,-0.1 0.1,-0.2 0,-0.1 0,-0.2 -0.1,-0.3 -0.1,-0.1 -0.1,-0.1 -0.2,-0.2 -0.1,-0.1 -0.2,0 -0.4,0 h -0.7 z"
-   id="path3312" />
-		<path
-   d="m 47.7,332.4 c -0.1,0.1 -0.3,0.2 -0.4,0.2 -0.1,0 -0.2,0.1 -0.4,0.1 -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.4 0,-0.1 0,-0.2 0.1,-0.3 0.1,-0.1 0.1,-0.2 0.2,-0.2 0.1,0 0.2,-0.1 0.3,-0.1 0.1,0 0.2,0 0.3,-0.1 0.3,0 0.5,-0.1 0.6,-0.1 0,0 0,-0.1 0,-0.1 0,-0.1 0,-0.2 -0.1,-0.3 -0.1,-0.1 -0.2,-0.1 -0.4,-0.1 -0.2,0 -0.3,0 -0.4,0.1 -0.1,0.1 -0.1,0.2 -0.2,0.3 h -0.3 c 0,-0.1 0.1,-0.3 0.2,-0.4 0.1,-0.1 0.2,-0.2 0.3,-0.2 0.1,0 0.3,-0.1 0.5,-0.1 0.2,0 0.3,0 0.4,0.1 0.1,0.1 0.2,0.1 0.2,0.2 0,0.1 0.1,0.1 0.1,0.2 0,0.1 0,0.2 0,0.3 v 0.5 c 0,0.3 0,0.5 0,0.6 0,0.1 0,0.2 0.1,0.2 h -0.4 c 0,0 0,-0.1 0,-0.2 z m 0,-0.7 c -0.1,0.1 -0.3,0.1 -0.6,0.1 -0.1,0 -0.2,0 -0.3,0.1 -0.1,0.1 -0.1,0.1 -0.1,0.1 0,0 0,0.1 0,0.2 0,0.1 0,0.2 0.1,0.2 0.1,0 0.2,0.1 0.3,0.1 0.1,0 0.3,0 0.4,-0.1 0.1,-0.1 0.2,-0.1 0.2,-0.2 0,-0.1 0.1,-0.2 0.1,-0.4 z"
-   id="path3313" />
-		<path
-   d="m 48.6,332.7 v -2.1 h 0.3 v 0.3 c 0.2,-0.2 0.4,-0.3 0.7,-0.3 0.1,0 0.2,0 0.3,0.1 0.1,0.1 0.2,0.1 0.2,0.2 0,0.1 0.1,0.2 0.1,0.3 0,0.1 0,0.2 0,0.3 v 1.3 h -0.4 v -1.3 c 0,-0.1 0,-0.2 0,-0.3 0,-0.1 -0.1,-0.1 -0.1,-0.2 0,-0.1 -0.2,-0.1 -0.2,-0.1 -0.2,0 -0.3,0 -0.4,0.1 -0.1,0.1 -0.2,0.3 -0.2,0.5 v 1.1 z"
-   id="path3314" />
-		<path
-   d="M 50.7,332.9 51,333 c 0,0.1 0.1,0.2 0.1,0.2 0.1,0.1 0.2,0.1 0.4,0.1 0.2,0 0.3,0 0.4,-0.1 0.1,-0.1 0.1,-0.2 0.2,-0.3 0,-0.1 0,-0.2 0,-0.5 -0.2,0.2 -0.3,0.3 -0.6,0.3 -0.3,0 -0.5,-0.1 -0.7,-0.3 -0.2,-0.2 -0.2,-0.5 -0.2,-0.7 0,-0.2 0,-0.4 0.1,-0.5 0.1,-0.1 0.2,-0.3 0.3,-0.4 0.1,-0.1 0.3,-0.1 0.5,-0.1 0.2,0 0.4,0.1 0.6,0.3 v -0.2 h 0.3 v 1.8 c 0,0.3 0,0.6 -0.1,0.7 -0.1,0.1 -0.2,0.2 -0.3,0.3 -0.1,0.1 -0.3,0.1 -0.5,0.1 -0.2,0 -0.4,-0.1 -0.6,-0.2 -0.2,-0.1 -0.2,-0.4 -0.2,-0.6 z m 0.3,-1.3 c 0,0.3 0.1,0.5 0.2,0.6 0.1,0.1 0.2,0.2 0.4,0.2 0.2,0 0.3,-0.1 0.4,-0.2 0.1,-0.1 0.2,-0.3 0.2,-0.6 0,-0.3 -0.1,-0.4 -0.2,-0.6 -0.1,-0.2 -0.2,-0.2 -0.4,-0.2 -0.2,0 -0.3,0.1 -0.4,0.2 -0.1,0.1 -0.2,0.4 -0.2,0.6 z"
-   id="path3315" />
-		<path
-   d="m 54.4,332.7 v -0.3 c -0.2,0.2 -0.4,0.4 -0.7,0.4 -0.1,0 -0.2,0 -0.3,-0.1 -0.1,-0.1 -0.2,-0.1 -0.2,-0.2 0,-0.1 -0.1,-0.2 -0.1,-0.3 0,-0.1 0,-0.2 0,-0.3 v -1.3 h 0.4 v 1.1 c 0,0.2 0,0.3 0,0.4 0,0.1 0.1,0.2 0.1,0.2 0,0 0.2,0.1 0.3,0.1 0.1,0 0.2,0 0.3,-0.1 0.1,-0.1 0.2,-0.1 0.2,-0.2 0,-0.1 0.1,-0.2 0.1,-0.4 v -1.1 h 0.4 v 2.1 z"
-   id="path3316" />
-		<path
-   d="m 55.2,332.7 v -2.1 h 0.3 v 0.3 c 0.1,-0.1 0.2,-0.2 0.2,-0.3 0,-0.1 0.1,-0.1 0.2,-0.1 0.1,0 0.2,0 0.4,0.1 l -0.1,0.3 c -0.1,-0.1 -0.2,-0.1 -0.3,-0.1 -0.1,0 -0.1,0 -0.2,0.1 -0.1,0.1 -0.1,0.1 -0.1,0.2 0,0.1 -0.1,0.3 -0.1,0.4 v 1.1 z"
-   id="path3317" />
-		<path
-   d="m 57.7,332.7 v -2.9 h 0.4 l 1.5,2.2 v -2.2 H 60 v 2.9 h -0.4 l -1.5,-2.2 v 2.2 z"
-   id="path3318" />
-		<path
-   d="m 61.9,332.4 c -0.1,0.1 -0.3,0.2 -0.4,0.2 -0.1,0 -0.2,0.1 -0.4,0.1 -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.4 0,-0.1 0,-0.2 0.1,-0.3 0.1,-0.1 0.1,-0.2 0.2,-0.2 0.1,0 0.2,-0.1 0.3,-0.1 0.1,0 0.2,0 0.3,-0.1 0.3,0 0.5,-0.1 0.6,-0.1 0,0 0,-0.1 0,-0.1 0,-0.1 0,-0.2 -0.1,-0.3 -0.1,-0.1 -0.2,-0.1 -0.4,-0.1 -0.2,0 -0.3,0 -0.4,0.1 -0.1,0.1 -0.1,0.2 -0.2,0.3 h -0.3 c 0,-0.1 0.1,-0.3 0.2,-0.4 0.1,-0.1 0.2,-0.2 0.3,-0.2 0.1,0 0.3,-0.1 0.5,-0.1 0.2,0 0.3,0 0.4,0.1 0.1,0.1 0.2,0.1 0.2,0.2 0,0.1 0.1,0.1 0.1,0.2 0,0.1 0,0.2 0,0.3 v 0.5 c 0,0.3 0,0.5 0,0.6 0,0.1 0,0.2 0.1,0.2 H 62 c 0,0 -0.1,-0.1 -0.1,-0.2 z m 0,-0.7 c -0.1,0.1 -0.3,0.1 -0.6,0.1 -0.1,0 -0.2,0 -0.3,0.1 -0.1,0.1 -0.1,0.1 -0.1,0.1 0,0 0,0.1 0,0.2 0,0.1 0,0.2 0.1,0.2 0.1,0 0.2,0.1 0.3,0.1 0.1,0 0.3,0 0.4,-0.1 0.1,-0.1 0.2,-0.1 0.2,-0.2 0,-0.1 0.1,-0.2 0.1,-0.4 z"
-   id="path3319" />
-		<path
-   d="M 62.7,332.9 63,333 c 0,0.1 0.1,0.2 0.1,0.2 0.1,0.1 0.2,0.1 0.4,0.1 0.2,0 0.3,0 0.4,-0.1 0.1,-0.1 0.1,-0.2 0.2,-0.3 0,-0.1 0,-0.2 0,-0.5 -0.2,0.2 -0.3,0.3 -0.6,0.3 -0.3,0 -0.5,-0.1 -0.7,-0.3 -0.2,-0.2 -0.2,-0.5 -0.2,-0.7 0,-0.2 0,-0.4 0.1,-0.5 0.1,-0.1 0.2,-0.3 0.3,-0.4 0.1,-0.1 0.3,-0.1 0.5,-0.1 0.2,0 0.4,0.1 0.6,0.3 v -0.2 h 0.3 v 1.8 c 0,0.3 0,0.6 -0.1,0.7 -0.1,0.1 -0.2,0.2 -0.3,0.3 -0.1,0.1 -0.3,0.1 -0.5,0.1 -0.2,0 -0.4,-0.1 -0.6,-0.2 -0.2,-0.1 -0.2,-0.4 -0.2,-0.6 z m 0.3,-1.3 c 0,0.3 0.1,0.5 0.2,0.6 0.1,0.1 0.2,0.2 0.4,0.2 0.2,0 0.3,-0.1 0.4,-0.2 0.1,-0.1 0.2,-0.3 0.2,-0.6 0,-0.3 -0.1,-0.4 -0.2,-0.6 -0.1,-0.2 -0.2,-0.2 -0.4,-0.2 -0.2,0 -0.3,0.1 -0.4,0.2 -0.1,0.1 -0.2,0.4 -0.2,0.6 z"
-   id="path3320" />
-		<path
-   d="m 66.4,332.4 c -0.1,0.1 -0.3,0.2 -0.4,0.2 -0.1,0 -0.2,0.1 -0.4,0.1 -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.4 0,-0.1 0,-0.2 0.1,-0.3 0.1,-0.1 0.1,-0.2 0.2,-0.2 0.1,0 0.2,-0.1 0.3,-0.1 0.1,0 0.2,0 0.3,-0.1 0.3,0 0.5,-0.1 0.6,-0.1 0,0 0,-0.1 0,-0.1 0,-0.1 0,-0.2 -0.1,-0.3 -0.1,-0.1 -0.2,-0.1 -0.4,-0.1 -0.2,0 -0.3,0 -0.4,0.1 -0.1,0.1 -0.1,0.2 -0.2,0.3 H 65 c 0,-0.1 0.1,-0.3 0.2,-0.4 0.1,-0.1 0.2,-0.2 0.3,-0.2 0.1,0 0.3,-0.1 0.5,-0.1 0.2,0 0.3,0 0.4,0.1 0.1,0.1 0.2,0.1 0.2,0.2 0,0.1 0.1,0.1 0.1,0.2 0,0.1 0,0.2 0,0.3 v 0.5 c 0,0.3 0,0.5 0,0.6 0,0.1 0,0.2 0.1,0.2 h -0.4 c 0,0 0,-0.1 0,-0.2 z m -0.1,-0.7 c -0.1,0.1 -0.3,0.1 -0.6,0.1 -0.1,0 -0.2,0 -0.3,0.1 -0.1,0.1 -0.1,0.1 -0.1,0.1 0,0 0,0.1 0,0.2 0,0.1 0,0.2 0.1,0.2 0.1,0 0.2,0.1 0.3,0.1 0.1,0 0.3,0 0.4,-0.1 0.1,-0.1 0.2,-0.1 0.2,-0.2 0,-0.1 0.1,-0.2 0.1,-0.4 z"
-   id="path3321" />
-		<path
-   d="m 67.2,332.7 v -2.1 h 0.3 v 0.3 c 0.1,-0.1 0.2,-0.2 0.2,-0.3 0,-0.1 0.1,-0.1 0.2,-0.1 0.1,0 0.2,0 0.4,0.1 l -0.1,0.3 c -0.1,-0.1 -0.2,-0.1 -0.3,-0.1 -0.1,0 -0.1,0 -0.2,0.1 -0.1,0.1 -0.1,0.1 -0.1,0.2 0,0.1 -0.1,0.3 -0.1,0.4 v 1.1 z"
-   id="path3322" />
-	</g><g
    id="g3336">
 		<text
    transform="translate(71.4779,207.3522)"
@@ -22312,78 +22276,78 @@
    transform="translate(-168.98985,5.3795762)"><tspan
      x="601.08984"
      y="60.499041"
-     id="tspan3"><tspan
+     id="tspan8"><tspan
        style="font-weight:normal"
-       id="tspan1">fast train / slow train
+       id="tspan7">fast train / slow train
 </tspan></tspan><tspan
      x="601.08984"
      y="71.63238"
-     id="tspan9"><tspan
+     id="tspan16"><tspan
        style="font-weight:normal"
-       id="tspan6">all trains stop
+       id="tspan11">all trains stop
 </tspan></tspan><tspan
      x="601.08984"
      y="82.765719"
-     id="tspan12"><tspan
+     id="tspan19"><tspan
        style="font-weight:normal"
-       id="tspan10">only some fast trains stop
+       id="tspan18">only some fast trains stop
 </tspan></tspan><tspan
      x="601.08984"
      y="93.899058"
-     id="tspan61"><tspan
+     id="tspan21"><tspan
        style="font-weight:normal"
-       id="tspan13">only slow trains stop
+       id="tspan20">only slow trains stop
 </tspan></tspan><tspan
      x="601.08984"
      y="105.0324"
-     id="tspan63"><tspan
+     id="tspan23"><tspan
        style="font-weight:normal"
-       id="tspan62">indirect or walking connection
+       id="tspan22">indirect or walking connection
 </tspan></tspan><tspan
      x="601.08984"
      y="116.16574"
-     id="tspan65"><tspan
+     id="tspan25"><tspan
        style="font-weight:normal"
-       id="tspan64">direct interchange
+       id="tspan24">direct interchange
 </tspan></tspan><tspan
      x="601.08984"
      y="127.29907"
-     id="tspan67"><tspan
+     id="tspan27"><tspan
        style="font-weight:normal"
-       id="tspan66">line in construction</tspan></tspan></text><text
+       id="tspan26">line in construction</tspan></tspan></text><text
    xml:space="preserve"
    id="text9"
    style="font-weight:bold;font-size:6.66667px;line-height:1.67;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);display:inline;fill:#000000"
    transform="translate(-13.469147,133.2331)"><tspan
      x="252.86914"
      y="-67.354475"
-     id="tspan69"><tspan
+     id="tspan29"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan68">Central
+       id="tspan28">Central
 </tspan></tspan><tspan
      x="252.86914"
      y="-56.221136"
-     id="tspan71"><tspan
+     id="tspan31"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan70">Western
+       id="tspan30">Western
 </tspan></tspan><tspan
      x="252.86914"
      y="-45.087797"
-     id="tspan73"><tspan
+     id="tspan33"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan72">Harbour
+       id="tspan32">Harbour
 </tspan></tspan><tspan
      x="252.86914"
      y="-33.954458"
-     id="tspan75"><tspan
+     id="tspan38"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan74">Trans-Harbour
+       id="tspan34">Trans-Harbour
 </tspan></tspan><tspan
      x="252.86914"
      y="-22.821119"
-     id="tspan77"><tspan
+     id="tspan40"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan76">Nerul-Uran</tspan></tspan></text><path
+       id="tspan39">Nerul-Uran</tspan></tspan></text><path
    class="st42"
    d="m 426.9,118.5 c 0.8,0 1.4,0.6 1.4,1.4 0,0.8 -0.6,1.4 -1.4,1.4 -0.5,0 -1,-0.3 -1.2,-0.7 h -6.1 c -0.3,0.4 -0.7,0.7 -1.2,0.7 -0.8,0 -1.4,-0.6 -1.4,-1.4 0,-0.8 0.6,-1.4 1.4,-1.4 0.5,0 1,0.3 1.2,0.7 h 6.1 c 0.3,-0.5 0.7,-0.7 1.2,-0.7 z"
    id="path4821" /><g
@@ -26900,7 +26864,12 @@
    id="text5765"
    style="text-align:end;text-anchor:end"
    x="68.498199"
-   y="337.74652">Goregaon (W)</text>
+   y="337.74652">Goregaon (W)</text><text
+   class="st60 st61"
+   id="text5765-6"
+   style="font-size:4px;font-family:ArialMT;text-align:end;text-anchor:end"
+   x="68.498199"
+   y="327.39212">Bangur Nagar</text>
 <text
    id="text5766"
    x="47.507301"
@@ -26925,7 +26894,15 @@
    id="text5767"
    style="text-align:end;text-anchor:end"
    x="83.245522"
-   y="365.53717">Lower Oshiwara</text>
+   y="365.53717"><tspan
+     sodipodi:role="line"
+     id="tspan4"
+     x="83.245522"
+     y="365.53717">Lower</tspan><tspan
+     sodipodi:role="line"
+     id="tspan5"
+     x="83.245522"
+     y="370.53717">Oshiwara</tspan></text>
 <text
    transform="matrix(1 0 0 1 75.0483 382.4213)"
    id="text5769"><tspan
@@ -27108,9 +27085,9 @@
    transform="translate(21.87995,55.302782)"><tspan
      x="203.58008"
      y="-22.242778"
-     id="tspan79"><tspan
+     id="tspan42"><tspan
        style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-       id="tspan78">Mumbai Metropolitan Region Rail Map</tspan></tspan></text><text
+       id="tspan41">Mumbai Metropolitan Region Rail Map</tspan></tspan></text><text
    xml:space="preserve"
    style="font-weight:bold;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#000000"
    x="226.59244"
@@ -27167,63 +27144,63 @@
    transform="translate(77.623274,207.40727)"><tspan
      x="252.86914"
      y="-67.354475"
-     id="tspan81"><tspan
+     id="tspan44"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan80">Line 1</tspan></tspan></text><text
+       id="tspan43">Line 1</tspan></tspan></text><text
    xml:space="preserve"
    id="text9-5"
    style="font-weight:bold;font-size:6.66667px;line-height:1.67;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9-6);display:inline;fill:#000000"
    transform="translate(77.623274,133.2331)"><tspan
      x="252.86914"
      y="-67.354475"
-     id="tspan83"><tspan
+     id="tspan46"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan82">Line 1
+       id="tspan45">Line 1
 </tspan></tspan><tspan
      x="252.86914"
      y="-56.221136"
-     id="tspan85"><tspan
+     id="tspan48"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan84">Line 2
+       id="tspan47">Line 2
 </tspan></tspan><tspan
      x="252.86914"
      y="-45.087797"
-     id="tspan87"><tspan
+     id="tspan50"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan86">Line 3
+       id="tspan49">Line 3
 </tspan></tspan><tspan
      x="252.86914"
      y="-33.954458"
-     id="tspan89"><tspan
+     id="tspan52"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan88">Line 4
+       id="tspan51">Line 4
 </tspan></tspan><tspan
      x="252.86914"
      y="-22.821119"
-     id="tspan91"><tspan
+     id="tspan54"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan90">Line 5</tspan></tspan></text><text
+       id="tspan53">Line 5</tspan></tspan></text><text
    xml:space="preserve"
    id="text9-5-9"
    style="font-weight:bold;font-size:6.66667px;line-height:1.67;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9-6-5);display:inline;fill:#000000"
    transform="translate(118.01657,133.2331)"><tspan
      x="252.86914"
      y="-67.354475"
-     id="tspan93"><tspan
+     id="tspan56"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan92">Line 6
+       id="tspan55">Line 6
 </tspan></tspan><tspan
      x="252.86914"
      y="-56.221136"
-     id="tspan95"><tspan
+     id="tspan58"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan94">Line 7
+       id="tspan57">Line 7
 </tspan></tspan><tspan
      x="252.86914"
      y="-45.087797"
-     id="tspan97"><tspan
+     id="tspan60"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan96">Line 9
+       id="tspan59">Line 9
 </tspan></tspan></text><text
    xml:space="preserve"
    id="text9-7"
@@ -27231,9 +27208,9 @@
    transform="translate(-13.469147,207.40727)"><tspan
      x="252.86914"
      y="-67.354475"
-     id="tspan99"><tspan
+     id="tspan62"><tspan
        style="font-weight:normal;-inkscape-font-specification:sans-serif"
-       id="tspan98">Mumbai Monorail</tspan></tspan></text><text
+       id="tspan61">Mumbai Monorail</tspan></tspan></text><text
    class="st60 st61"
    id="text5759-5"
    style="font-size:4px;font-family:ArialMT;text-align:center;text-anchor:middle"
